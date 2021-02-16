@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Tiwari
-- 👀 I’m interested in programming langugages and technologies that helps us.
+- 👀 I’m interested in programming langugages and technologies that help us.
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on java, python, c++
 - 📫 How to reach me : you can mail me on @surajtiwari1155@gmail.com, or twitter: @SurajTiwari09
